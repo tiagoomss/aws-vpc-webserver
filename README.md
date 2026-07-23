@@ -7,11 +7,11 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto demonstra a criação de uma infraestrutura de rede na AWS utilizando o Amazon VPC.
+Este projeto consiste na criação de uma infraestrutura de rede na AWS utilizando o serviço Amazon VPC para hospedar uma aplicação web simples de forma segura e organizada.
 
-Foi construída uma arquitetura contendo sub-redes públicas e privadas, regras de segurança, tabelas de rotas e uma instância Amazon EC2 configurada como servidor web acessível pela Internet.
+A solução contempla a criação de uma VPC personalizada, sub-redes públicas e privadas, tabelas de rotas, Internet Gateway, Security Groups e uma instância Amazon EC2 configurada como servidor web.
 
-O laboratório foi realizado durante o programa AWS re/Start da Escola da Nuvem com o objetivo de desenvolver conhecimentos práticos em redes na nuvem.
+O projeto foi desenvolvido com base nos conhecimentos adquiridos durante o programa AWS re/Start da Escola da Nuvem e recriado como parte do meu portfólio prático em Cloud Computing e DevOps.
 
 ## 🎯 Objetivos
 
@@ -74,7 +74,7 @@ Por fim foi lançada uma instância Amazon EC2 baseada em Amazon Linux 2, utiliz
 
 ## 📚 Conceitos aprendidos
 
-Durante este laboratório foi possível compreender conceitos importantes relacionados à infraestrutura de rede na AWS, como:
+Durante o desenvolvimento deste projeto foi possível consolidar conceitos importantes relacionados à infraestrutura de redes na AWS, como:
 
 - Diferença entre VPC e Subnets.
 - Função do Internet Gateway.
@@ -96,6 +96,6 @@ Caso este projeto fosse utilizado em um ambiente de produção, poderiam ser imp
 
 ## 👨‍💻 Autor
 
-**Antonio Tiago Moura da Silva**
+**Tiago Moura**
 
-Projeto desenvolvido durante o programa **AWS re/Start** da **Escola da Nuvem**, sendo posteriormente documentado e organizado como parte do meu portfólio de estudos em Cloud Computing e DevOps.
+Projeto desenvolvido como parte do meu portfólio de estudos em Cloud Computing e DevOps, aplicando conhecimentos adquiridos durante o programa AWS re/Start da Escola da Nuvem.
